@@ -1,0 +1,12 @@
+{
+  "name": "john-bot",
+  "version": "1.0.0",
+  "scripts": {
+    "register": "bun run register.ts"
+  },
+  "dependencies": {
+    "discord-interactions": "^2.0.2",
+    "node-fetch": "^3.3.2",
+    "raw-body": "^2.4.1"
+  }
+}
